@@ -1,0 +1,2 @@
+"channelId","catchId","accountName","status","appId","publicKey","privateKey","loginUsername","loginPassword","transactionPassword","mobile","bootServer","costRate","costFixedAmount","minAmount","maxAmount","dayMaxAmount","dayMaxCount","gateway","isGatewayUsed","channelType1ListString","channelType2"
+46,"111","H111",0,"AppId111","PublicKey111","PrivateKey111","Username111","Password111","TP111","","",1.5,100,10000,50000,1000000,10,"1.1.1.1",false,"PC,WAP,APP","FACE"
