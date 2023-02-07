@@ -22,6 +22,21 @@
 
 简体中文 | [English](./README.md)
 
+## 延伸版本 野火
+主要包括以下项目：
+
+| [GitHub仓库地址](https://github.com/LiveChatAndApp)       | 说明                                                                                      
+| ------------------------------------------------------------  | --------------------------------------------------------------------------
+| [im-server](https://github.com/LiveChatAndApp/im-server)          | 野火社区版IM服务，野火IM的核心服务，处理所有IM相关业务。  |
+| [app_server](https://github.com/LiveChatAndApp/app_server)       | Demo应用服务，模拟客户的应用服登陆处理逻辑及部分二次开发示例。 |
+| [admin-ui](https://github.com/LiveChatAndApp/admin-ui)       | Demo应用服务，基於vue admin element 的 admin 管理介面。 |
+| [admin-api](https://github.com/LiveChatAndApp/im-admin)       | Demo应用服务，admin 後台 api 開發。 |
+| [android-chat](https://github.com/LiveChatAndApp/Android) | 野火IM Android SDK源码和App源码。 |
+| [ios-chat](https://github.com/LiveChatAndApp/ios)             | 野火IM iOS SDK源码和App源码。|
+
+<img src="https://github.com/LiveChatAndApp/admin-ui/blob/main/fireamdin.png" width = 50% height = 50% />
+
+
 ## 简介
 
 `vue-element-admin` 是一个后台集成解决方案，它基于 [Vue.js](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈，内置了i18国际化解决方案，动态路由，权限验证等很多功能特性，相信不管你的需求是什么，本项目都能帮助到你。
@@ -153,17 +168,3 @@ npm run lint -- --fix
 ## Changelog
 Detailed changes for each release are documented in the [release notes](https://github.com/PanJiaChen/vue-element-admin/releases).
 
-## Online Demo
-[在线 Demo](http://panjiachen.github.io/vue-element-admin)
-
-## Donate
-如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励 :tropical_drink:
-![donate](https://panjiachen.github.io/donate/donation.png)
-
-[Paypal Me](https://www.paypal.me/panfree23)
-
-## License
-
-[MIT](https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE)
-
-Copyright (c) 2017-present PanJiaChen
